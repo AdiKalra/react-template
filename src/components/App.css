@@ -1,0 +1,406 @@
+
+
+.backgroundContainer {
+  width: 100vw;
+  display: flex;
+}
+
+/* First Div */
+.MainDiv {
+  background-image: url(Backround1.jpg);
+}
+
+.fIRSTiMAGE {
+  background-image: url(Back.jpg);
+  height: 890px;
+}
+
+.navigationBar {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+.logo {
+  width: 15%;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.Mainop {
+  width: 80%;
+  display: flex;
+  justify-content: end;
+}
+
+.options {
+  width: 65%;
+}
+
+.oplogo {
+  width: 10%;
+}
+
+.opdiv {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+}
+
+.opdiv2 {
+  list-style: none;
+  display: flex;
+  justify-content: start;
+  height: 100%;
+}
+
+.oppc {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.oppc2 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Oswald", sans-serif;
+}
+
+a:hover {
+  opacity: 0.7;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 38px;
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Oswald", sans-serif;
+}
+
+.inputbut {
+  margin-left: 400px;
+  margin-top: 650px;
+}
+
+.Skate {
+  position: absolute;
+}
+
+.input1 {
+  height: 70px;
+  width: 250px;
+  font-size: 28px;
+  background-color: white;
+  border-radius: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Second Div */
+
+.SecondDiv {
+  height: 567px;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.contentBox1 {
+  height: 500px;
+  width: 70%;
+  display: flex;
+}
+
+.FirstBox {
+  height: 460px;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.heading {
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+h2 {
+  font-size: 70px;
+  font-weight: bolder;
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Oswald", sans-serif;
+  color: rgb(83, 80, 80);
+}
+
+.bodyCon {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+p {
+  font-size: 24px;
+}
+
+.inputbut2 {
+  margin-left: 100px;
+}
+
+.input2 {
+  height: 70px;
+  width: 250px;
+  font-size: 28px;
+  background-color: #a70909e6;
+  border: 1px solid #a70909e6;
+  border-radius: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+.SecondBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 520px;
+}
+
+/* Third Div */
+
+.ThirdDiv {
+  width: 100%;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.thirdBody {
+  width: 85%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.FirstBox1 {
+  display: flex;
+  width: 85%;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.Con {
+  display: flex;
+}
+
+h3 {
+  font-size: 38px;
+  padding: 15px;
+  font-weight: bolder;
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Oswald", sans-serif;
+}
+
+/* Fourth Div */
+
+.FourthDiv {
+  height: 730px;
+  width: 100%;
+  display: flex;
+}
+
+.fourthBody {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 90px;
+  margin-left: 50px;
+}
+
+.fourthHead {
+  padding: 10px;
+  margin-left: 40px;
+}
+
+.ForthContent {
+  padding: 40px;
+  width: 70%;
+}
+
+.fourthPhoto img {
+  height: 300px;
+  margin-top: 250px;
+}
+
+/* Fifth Div */
+.FifthDiv {
+  height: 690px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.Slide {
+  display: flex;
+  align-items: center;
+}
+
+.Slide img {
+  height: 450px;
+  width: 450px;
+}
+
+.slideL {
+  background-color: black;
+  color: aliceblue;
+  height: 60px;
+  width: 40px;
+  position: static;
+  left: 250px;
+}
+
+.slideR {
+  background-color: black;
+  color: aliceblue;
+  height: 60px;
+  width: 40px;
+}
+
+/* Sixth Div */
+.SixDiv {
+  height: 800px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SixHead {
+  width: 60%;
+  display: flex;
+  justify-content: start;
+  margin-top: 100px;
+}
+
+.SixContainer {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.SixBody {
+  padding: 150px;
+}
+
+span {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+/* Seventh Div */
+.SeventhDiv {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ContactBox {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h4 {
+  font-size: 56px;
+  color: gray;
+  font-family: "Edu SA Beginner", cursive;
+}
+
+h5 {
+  font-size: 46px;
+  color: white;
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Oswald", sans-serif;
+}
+
+h6 {
+  font-size: 26px;
+  color: white;
+  font-family: "Edu SA Beginner", cursive;
+  font-family: "Oswald", sans-serif;
+}
+
+.ContactInformation {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.InfoCon {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+
+.PhotoCon {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ContactHead h4 {
+  margin-bottom: 100px;
+}
+
+.logosDiv {
+  margin-top: 30px;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.LineDiv {
+  width: 40%;
+  height: 1px;
+  background-color: white;
+}
+
+.footer p {
+  font-size: 20px;
+  margin-top: 20px;
+  color: white;
+}

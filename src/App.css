@@ -1,0 +1,87 @@
+* {
+  font-family: "Oswald", sans-serif;
+}
+
+.app {
+  background-image: url("Backround1.jpg");
+}
+
+.first-container {
+  top: -100px;
+  width: 100vw;
+  height: 110vh;
+  background-image: url(Back.jpg);
+}
+
+.second-container {
+  height: 500px;
+  width: 80vw;
+  margin: auto;
+}
+
+.skateboard-img {
+  top: 90px;
+  right: 0;
+}
+
+.start-25 {
+  left: 25%;
+}
+
+.h-750 {
+  height: 750px;
+}
+
+.my-50 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.g-10 {
+  gap: 10px;
+}
+.g-20 {
+  gap: 20px;
+}
+
+.h-700 {
+  height: 700px;
+}
+
+.h-650 {
+  height: 650px;
+}
+
+.h-500 {
+  height: 500px;
+}
+
+.w-400 {
+  width: 400px;
+  height: 400px;
+}
+
+.white {
+  color: white;
+}
+
+.nav-item a {
+  color: grey;
+}
+
+.nav-item a:hover {
+  color: grey;
+  transform: scale(1.2);
+}
+
+.f-20 {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+}
+
+.heading{
+  font-family: "Oswald", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  color: grey;
+}
